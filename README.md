@@ -1,1 +1,3 @@
-# StudentCareerForecastingAPI
+# Student Career Forecasting API
+
+The system helps the Engineering Students evaluate the colleges or companies they can potentially land into after their graduation. It uses the ML models for prognostication. The results are given out in the form of API response which can be used by various apps. There is also a CGPA Estimator developed from result analysis of Mumbai University Examination scheme for Engineering curriculum formulated with mathematical algorithm that gives target CGPA for students which they can aim for including the subjects which need focus to reach their goals.
